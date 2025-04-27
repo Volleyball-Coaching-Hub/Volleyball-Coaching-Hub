@@ -42,13 +42,22 @@ main.cards {
   transform: translateY(-5px);
 }
 .teacher {
-  background: #6A8CAF; /* muted blue */
+  background: #6A8CAF;
 }
 .coach {
-  background: #8CA170; /* soft olive */
+  background: #8CA170;
 }
 .athlete {
-  background: #E8A87C; /* dusty orange */
+  background: #E8A87C;
+}
+section {
+  padding: 3em 1em;
+  max-width: 800px;
+  margin: auto;
+}
+section h2 {
+  font-size: 1.6em;
+  margin-bottom: 0.5em;
 }
 footer {
   text-align: center;
